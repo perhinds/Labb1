@@ -1,0 +1,5 @@
+
+.table-custom-width {
+    width: 80%; /* Justera detta till önskad procentandel eller fast värde */
+    margin: 0 auto; /* För att centrera tabellen */
+  }
